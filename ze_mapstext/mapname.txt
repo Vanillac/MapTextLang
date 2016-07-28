@@ -384,7 +384,7 @@
 	}
 	"ze_motanuminc_sgfinal"
 	{
-		"chi"		"黑基佬传奇:护菊同盟"
+		"chi"		"motanum公司"
 		"credit"		"400"
 	}
 	"ze_mountainspire_p2"
@@ -414,7 +414,7 @@
 	}
 	"ze_nuke_p5"
 	{
-		"chi"		"核电站危机"
+		"chi"		"核子危机"
 		"credit"		"400"
 	}
 	"ze_ocean_base_escape_p"
@@ -936,7 +936,7 @@
 	}
 	"ze_showdown_v4_1_p"
 	{
-		"chi"		"巅峰之战"
+		"chi"		"一决胜负"
 		"credit"		"400"
 	}
 	"ze_escape_the_eye_p2"
@@ -1129,7 +1129,7 @@
 	}
 	"ze_infected_sewers_v6_1_1"
 	{
-		"chi"		"下水道感染危机"
+		"chi"		"下水道惊魂"
 	}
 	"ze_ripsuhdude_v1_6"
 	{
