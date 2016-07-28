@@ -1064,7 +1064,7 @@
 	}
 	"ze_lemonysnickets_v1_e10"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"雷蒙斯尼奇历险"
 	}
 	"ze_venice_escape_p2"
 	{
@@ -1101,11 +1101,11 @@
 	}
 	"ze_ffxii_feywood_b3_1_n"
 	{
-		"chi"		"最终幻想7：幻妖之森"
+		"chi"		"最终幻想12：幻妖之森"
 	}
 	"ze_kraznov_poopata_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"智勇大闯关"
 	}
 	"ze_laser_island_b3"
 	{
@@ -1113,11 +1113,11 @@
 	}
 	"ze_negative_legacy_beta7"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"人类所犯下的错误"
 	}
 	"ze_rizomata_c17"
 	{
-		"chi"		"精灵塔"
+		"chi"		"根源"
 	}
 	"ze_gris_b1"
 	{
@@ -1125,21 +1125,21 @@
 	}
 	"ze_hidden_temple_b1_3"
 	{
-		"chi"		"秘密神殿"
+		"chi"		"隐秘神殿"
 	}
 	"ze_infected_sewers_v6_1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"下水道感染危机"
 	}
-<<<<<<< HEAD
 	"ze_ripsuhdude_v1_6"
-=======
+	{
+		"chi"		"地下设施潜入"
+	}
 	"ze_mountain_escape_snow_v2"
 	{
 		"chi"		"爬雪山"
 	}
 	"ze_ripsuhdude_v1_5"
->>>>>>> 29326ab7dc2dfe82468f1e7d0b62135cd505d684
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -1149,7 +1149,7 @@
 	}
 	"ze_Haste_to_flee_1b"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"极速逃亡"
 	}
 	"ze_laser_island_b4"
 	{
