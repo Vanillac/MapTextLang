@@ -1303,7 +1303,7 @@
 	}
 	"ze_PKMN_Adventure_v6_3fix"
 	{
-		"chi"		"跳刀神奇宝贝"
+		"chi"		"口袋妖怪冒险"
 	}
 	"ze_nuclear_warhouse_by_gm"
 	{
@@ -1324,7 +1324,7 @@
 	}
 	"ze_AEPP_Nano_Grid2_b2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"比波猴"
 	}
 	"ze_ripsuhdude_v1_6"
 	{
@@ -1336,19 +1336,19 @@
 	}
 	"ze_temple_escape"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"神庙逃亡"
 	}
 	"ze_STRANGE_escape_b3_ps_b3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"奇怪的逃亡"
 	}
 	"ze_Alien_Shooter_v6_2_ps_b1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"孤胆枪手"
 	}
 	"ze_temple_raider_b4_ps_v4_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"袭击神庙"
 	}
 }
 
