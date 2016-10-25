@@ -1348,7 +1348,7 @@
 	}
 	"ze_temple_raider_b4_ps_v4_1"
 	{
-		"chi"		"袭击神庙"
+		"chi"		"神庙危机"
 	}
 }
 
