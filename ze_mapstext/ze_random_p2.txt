@@ -6,6 +6,7 @@
 	}
 	"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
 	{
+		"command"	"sm_locktimelimit 10"
 		"chi"		"**拖住僵尸，直到你传送1到9随机一张地图！**"
 	}
 	"***Teleporting in 20secs!***"
