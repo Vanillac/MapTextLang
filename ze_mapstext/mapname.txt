@@ -68,7 +68,7 @@
 	"ze_Random_p2"
 	{
 		"chi"		"随机小游戏"
-		"credit"		"2000"
+		"credit"		"3000"
 		"onlynominate"		"1"
 	}
 	"ze_Siberia_1990_v1_2c_p5"
@@ -995,7 +995,7 @@
 	"ze_Sit_Caelum_Paradisus_b7"
 	{
 		"chi"		"雕刻天堂"
-		"credit"		"600"
+		"credit"		"700"
 	}
 	"ze_bioshock_v1_7_1"
 	{
@@ -1024,12 +1024,12 @@
 	"ze_fapescape_rote_v1_3"
 	{
 		"chi"		"乐高大逃亡：噩梦陷阱"
-		"credit"		"800"
+		"credit"		"1000"
 	}
 	"ze_stalker_ultimate_v1"
 	{
 		"chi"		"切尔诺贝利核电站"
-		"credit"		"800"
+		"credit"		"1000"
 	}
 	"ze_tyranny_v3_n"
 	{
@@ -1077,6 +1077,7 @@
 	"ze_antartika_b1_1_ps1"
 	{
 		"chi"		"南极基地逃亡之旅"
+		"credit"		"700"
 	}
 	"ze_ffxii_feywood_b3_1_n"
 	{
@@ -1153,7 +1154,7 @@
 	"ze_sky_athletic_adv_v9_9"
 	{
 		"chi"		"天空竞技"
-		"credit"		"500"
+		"credit"		"700"
 	}
 	"ze_sorrento_escape_v2"
 	{
@@ -1226,6 +1227,7 @@
 	"ze_artika_base_v1_2"
 	{
 		"chi"		"探秘基地"
+		"credit"		"700"
 	}
 	"ze_blackmesa_remix_p"
 	{
@@ -1259,6 +1261,7 @@
 	"ze_otakuroom_v5_6f"
 	{
 		"chi"		"御宅房"
+		"credit"		"700"
 	}
 	"ze_venice_escape_p2"
 	{
@@ -1275,7 +1278,7 @@
 	"ze_ashen_keep_v0_3_csgo1"
 	{
 		"chi"		"黑暗之魂"
-		"credit"		"600"
+		"credit"		"700"
 	}
 	"ze_slender_escape_rc1"
 	{
@@ -1289,7 +1292,7 @@
 	"ze_christmas_infection_p"
 	{
 		"chi"		"圣诞夜惊魂"
-		"credit"		"500"
+		"credit"		"700"
 	}
 	"ze_ffxii_paramina_rift_v1_4_go"
 	{
@@ -1464,11 +1467,6 @@
 		"chi"		"最终幻想12：西沙"
 		"credit"		"1000"
 	}
-	"ze_hold_em_v10_p"
-	{
-		"chi"		"坚守行动"
-		"credit"		"2000"
-	}
 	"ze_pkmn_adventure_v7_2"
 	{
 		"chi"		"神奇宝贝冒险之旅"
@@ -1491,6 +1489,7 @@
 	"ze_destruction_of_exorath_v4_lite"
 	{
 		"chi"		"破坏行动"
+		"credit"		"500"
 	}
 	"ze_ffxii_westersand_v7_2_e2_fix"
 	{
@@ -1516,7 +1515,7 @@
 	"ze_ffxiv_wanderers_palace_v2_11"
 	{
 		"chi"		"最终幻想14：旅神圣域"
-		"credit"		"500"
+		"credit"		"1000"
 	}
 	"ze_floating_rocks_survival_csgo_v2"
 	{
@@ -1604,7 +1603,8 @@
 	}
 	"ze_sandstorm_go_v1_3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"沙尘暴"
+		"credit"		"800"
 	}
 	"ze_insensible_sr8gm6yj12hs7_rg_"
 	{
@@ -1613,9 +1613,11 @@
 	"ze_l0v0l_a7_csgo3"
 	{
 		"chi"		"此地图暂无译名"
+		"credit"		"500"
 	}
-	"ze_diddle_v1"
+	"ze_diddle_v1_3"
 	{
 		"chi"		"此地图暂无译名"
+		"credit"		"800"
 	}
 }
